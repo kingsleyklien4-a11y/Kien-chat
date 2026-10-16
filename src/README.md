@@ -15,3 +15,4 @@ The Cloudflare “Hello World” editor alone is not enough: this project needs 
 
 ## Scope and safety
 This is a starter, not a full Telegram clone. It provides public rooms, live messages, and the last 100 messages per room. It does NOT yet have secure accounts, verified usernames, private direct messages, private group membership, channels, file uploads, push notifications, moderation, or end-to-end encryption. Room names are not private; anyone who guesses a room name can join. Add authentication, rate limiting, abuse controls, and privacy features before public production use.
+
